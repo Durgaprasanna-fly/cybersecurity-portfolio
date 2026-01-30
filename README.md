@@ -88,16 +88,15 @@ Network discovery, port scanning, and vulnerability identification.
 
 ## 📫 Contact Me
 
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](URL)  
-**Location:** [Your City, State]
+**Email:** durgap.konde@gmail.com 
+**LinkedIn:** https://www.linkedin.com/in/durga-prasanna-konde/
+**Location:** Milwaukee,Wisconsin,USA
 
 I'm actively seeking entry-level SOC Analyst or Security Analyst positions!
 
 ---
 
 ## 📚 Currently Learning
-- CompTIA Security+ (SY0-701)
 - Threat Detection & Analysis
 - Network Security
 - Incident Response
